@@ -1,2 +1,0 @@
-# VIBEGEN
-soical media website
